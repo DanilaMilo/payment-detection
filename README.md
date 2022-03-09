@@ -6,3 +6,5 @@ Challenge page on Kaggle https://www.kaggle.com/c/payment-detection
 Model chosen for resolve task - yolov5.
 
 This solution took 2nd place.
+
+You can take the dataset for training the model on the task page.
